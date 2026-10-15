@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi there, I'm Muskan Gulati 👋</h1>
 
 <h3 align="center">B.Tech CSE Student | Full Stack Development | AI/ML</h3>
@@ -9,14 +10,16 @@
   <img src="https://img.shields.io/badge/CSE-STUDENT-5EAA00?style=for-the-badge" />
 </p>
 
+<img width="480" height="195" alt="giphy" src="https://github.com/user-attachments/assets/85793d19-9e61-460c-8a24-20869c761fd0" />
 
-<p align="center">
+
+<!-- <p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="440"
     alt="Coding animation"
   />
-</p>
+</p> -->
 
 
 ---
