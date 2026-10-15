@@ -10,9 +10,16 @@
   <img src="https://img.shields.io/badge/CSE-STUDENT-5EAA00?style=for-the-badge" />
 </p>
 
-<p align="center"
-<img width="480" height="195" alt="giphy" src="https://github.com/user-attachments/assets/85793d19-9e61-460c-8a24-20869c761fd0" />
+
+<p align="center">
+  <img
+    width="480"
+    height="195"
+    alt="Dreamy coding animation"
+    src="https://github.com/user-attachments/assets/85793d19-9e61-460c-8a24-20869c761fd0"
+  />
 </p>
+
 
 
 <!-- <p align="center">
