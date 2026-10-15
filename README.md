@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/CSE-STUDENT-5EAA00?style=for-the-badge" />
 </p>
 
+
 <p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -16,6 +17,7 @@
     alt="Coding animation"
   />
 </p>
+
 
 ---
 
