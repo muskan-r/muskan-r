@@ -105,36 +105,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 SkillSync — AI-Powered Collaboration Platform
-
-A full-stack platform that helps students showcase projects, find collaborators, and communicate in real time.
-
-- AI-generated project ideas and descriptions using Gemini API
-- Real-time chat and notifications using Socket.IO
-- MongoDB database and Cloudinary image uploads
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskan-r/SkillSync)
-
-### 🔹 CineVa — Movie Recommendation System
-
-A movie recommendation application using collaborative and content-based filtering.
-
-- Personalized movie recommendations
-- User authentication and watchlist functionality
-- React frontend, Flask backend, and MongoDB
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskan-r/CineVa)
-
-### 🔹 Diabetes Prediction System
-
-A machine learning application that predicts diabetes using a KNN model and a Gradio interface.
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskan-r/Diabetes-Prediction-System)
-
----
-
 ## 🌱 Currently Learning
 
 - Improving full-stack development skills
