@@ -87,24 +87,6 @@
 
 ---
 
-## 💼 Internship Experience
-
-### Artificial Intelligence & Machine Learning Intern
-**BR Techgeeks Pvt. Ltd. | 2026**
-
-- Worked with Python and data-processing libraries.
-- Practiced machine learning algorithms using Scikit-learn.
-- Built prediction applications using Gradio.
-
-### MERN Stack Intern
-**Okie Dokie Solutions LLP | 2025**
-
-- Learned frontend development with HTML, CSS, and React.
-- Gained exposure to Node.js, Express.js, and MongoDB.
-- Built a small e-commerce frontend using React.
-
----
-
 ## 🌱 Currently Learning
 
 - Improving full-stack development skills
