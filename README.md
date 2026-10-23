@@ -1,116 +1,205 @@
 
-
 <h1 align="center">Hi there, I'm Muskan Gulati 👋</h1>
 
-<h3 align="center">B.Tech CSE Student | Full Stack Development | AI/ML</h3>
+<h3 align="center">Full Stack Development | AI/ML | Creative Tech</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AI%2FML-ENTHUSIAST-0077B5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSE-STUDENT-5EAA00?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Exploring+AI+%2F+ML;Building+Ideas+into+Projects" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
-  <img
-    width="480"
-    height="195"
-    alt="Dreamy coding animation"
-    src="https://github.com/user-attachments/assets/85793d19-9e61-460c-8a24-20869c761fd0"
-  />
+  <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/AI%2FML-ENTHUSIAST-0077B5?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML Enthusiast" />
+  <img src="https://img.shields.io/badge/CSE-STUDENT-5EAA00?style=for-the-badge" alt="CSE Student" />
 </p>
 
+<p align="center">
+  <img width="480" alt="Dreamy coding animation" src="https://github.com/user-attachments/assets/85793d19-9e61-460c-8a24-20869c761fd0" />
+</p>
 
-
-<!-- <p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="440"
-    alt="Coding animation"
-  />
-</p> -->
-
+<p align="center">
+  <a href="https://github.com/muskan-r">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskangulati999/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering 
-- 💻 Interested in Full Stack Development and AI/ML
-- 🚀 Building web applications using the MERN stack
-- 🤖 Exploring machine learning and AI-powered applications
-- 🌱 Learning new technologies through hands-on projects
-- 🎯 Aspiring to build practical and impactful software solutions
+I'm a Computer Science student passionate about building useful web applications and exploring the possibilities of AI and machine learning.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 💻 Exploring full-stack development with the MERN stack
+- 🤖 Building AI-powered applications and ML projects
+- 🚀 Learning by developing and deploying real-world projects
+- 🌱 Improving my problem-solving and software development skills
+- 🎯 Interested in creating practical, user-friendly technology
+
+---
+
+## ⚡ At a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%2FML-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+| Area | Current Focus |
+|---|---|
+| 🎓 Education | B.Tech CSE |
+| 💻 Development | React, Node.js, Express.js |
+| 🗄️ Database | MongoDB |
+| 🤖 AI/ML | Python, Scikit-learn |
+| 🧰 Tools | Git, GitHub, VS Code |
+| 🌱 Growth | Building better projects and learning new technologies |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="C, C++, Python and JavaScript" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="HTML, CSS, React, Tailwind CSS and Vite" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb" alt="Node.js, Express, Flask and MongoDB" />
 </p>
 
-### 🤖 AI/ML & Tools
+### 🤖 AI/ML & Developer Tools
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode" alt="Python, Scikit-learn, Git, GitHub and VS Code" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- Improving full-stack development skills
-- Learning machine learning model evaluation
-- Writing clean and maintainable code
-- Exploring practical AI-powered applications
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ SkillSync</h3>
+      <p align="center">
+        <b>AI-Powered Project Collaboration</b>
+      </p>
+      <p>
+        A MERN platform for discovering collaborators, showcasing projects,
+        chatting in real time and generating AI-powered project ideas.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/muskan-r/SkillSync">View Repository</a>
+        ·
+        <a href="https://skillsync-rose.vercel.app/">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 CineVa</h3>
+      <p align="center">
+        <b>Movie Recommendation System</b>
+      </p>
+      <p>
+        A movie discovery application using content-based and collaborative
+        filtering, with a React interface and Flask backend.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />
+        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/muskan-r/CineVa">View Repository</a>
+        ·
+        <a href="https://cineva-olive.vercel.app/">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Building & Learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Building</h3>
+      <ul>
+        <li>Full-stack applications with React and Node.js</li>
+        <li>AI-powered features using APIs and machine learning</li>
+        <li>Projects with practical use cases and polished interfaces</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Learning</h3>
+      <ul>
+        <li>Machine learning model evaluation</li>
+        <li>Backend architecture and API design</li>
+        <li>Writing maintainable, reliable code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muskan-r&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-r&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=muskan-r&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muskan-r/muskan-r/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/muskan-r">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/muskangulati999/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Learn • Build • Innovate ✨</h3>
+<h3 align="center">✨ Learn · Build · Innovate ✨</h3>
 
 <p align="center">
-  Thanks for visiting my profile! 😊
+  <i>Thanks for visiting my profile! Let's build something meaningful.</i>
 </p>
