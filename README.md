@@ -4,7 +4,7 @@
 <h3 align="center">B.Tech CSE Student | Full Stack Development | AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Building+with+React+%26+Node.js;Exploring+AI+%2F+ML;Turning+Ideas+into+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+React+%26+Node.js;Exploring+AI+%2F+ML;Turning+Ideas+into+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
